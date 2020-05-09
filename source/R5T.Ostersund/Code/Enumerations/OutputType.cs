@@ -1,8 +1,10 @@
 ﻿using System;
 
+
 namespace R5T.Ostersund
 {
-    public class Class1
+    public enum OutputType
     {
+        Executable,
     }
 }
