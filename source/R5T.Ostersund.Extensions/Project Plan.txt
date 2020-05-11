@@ -1,0 +1,4 @@
+R5T.Ostersund.Extensions - A extensions library for the R5T.Ostersund stronly-typed Visual Studio solution and project file data values library.
+
+Goals
+

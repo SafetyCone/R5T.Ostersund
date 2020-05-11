@@ -1,0 +1,4 @@
+R5T.Ostersund.Extensions.Construction - A construction console-app for the library R5T.Ostersund.Extensions.
+
+Goals
+
